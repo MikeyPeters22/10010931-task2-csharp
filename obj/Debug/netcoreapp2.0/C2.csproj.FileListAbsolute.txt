@@ -1,0 +1,10 @@
+C:\Users\vr\Desktop\C2\bin\Debug\netcoreapp2.0\C2.deps.json
+C:\Users\vr\Desktop\C2\bin\Debug\netcoreapp2.0\C2.runtimeconfig.json
+C:\Users\vr\Desktop\C2\bin\Debug\netcoreapp2.0\C2.runtimeconfig.dev.json
+C:\Users\vr\Desktop\C2\bin\Debug\netcoreapp2.0\C2.dll
+C:\Users\vr\Desktop\C2\bin\Debug\netcoreapp2.0\C2.pdb
+C:\Users\vr\Desktop\C2\obj\Debug\netcoreapp2.0\C2.csproj.CoreCompileInputs.cache
+C:\Users\vr\Desktop\C2\obj\Debug\netcoreapp2.0\C2.AssemblyInfoInputs.cache
+C:\Users\vr\Desktop\C2\obj\Debug\netcoreapp2.0\C2.AssemblyInfo.cs
+C:\Users\vr\Desktop\C2\obj\Debug\netcoreapp2.0\C2.dll
+C:\Users\vr\Desktop\C2\obj\Debug\netcoreapp2.0\C2.pdb
